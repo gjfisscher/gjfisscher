@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gjfisscher
-- 👀 I’m interested in elctronics
+- 👋 Hi, I’m Gert-Jan Fisscher
+- 👀 I’m interested in electronics
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on the module CS50
 - 📫 How to reach me by discord 
